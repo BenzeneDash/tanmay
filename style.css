@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: white; /* full white like original */
+}
+
+/* Container takes full width */
+.container {
+    padding: 15px;
+}
+
+/* Fields */
+.field {
+    margin: 10px 0;
+    font-size: 15px;
+}
+
+/* Labels */
+.label {
+    font-weight: bold;
+}
